@@ -7,5 +7,5 @@ This is a proprietary code don't use this, the code is not entirely writed by me
 [Week 4: Fourier Transformations - Frequency Spectra](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week4/week4.ipynb) \
 [Week 5: Fourier Transformations - Frequency Spectra and Filtering](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week5/week5.ipynb) \
 [Week 6: Test - Fourier Transformations](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week6/week6.ipynb) \
-[Week 7: Gabor Filter. A band pass filter, filtering in the frequency domain](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week7/week7.ipynb)
+[Week 7: Gabor Filter. A band pass filter, filtering in the frequency domain](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week7/week7.ipynb) \
 [Week 8: Gabor Filter. Building a filter on frequency domain](https://github.com/arthunix/DigitalSignalProcessing/blob/main/week8/week8.ipynb)
